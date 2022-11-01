@@ -1,7 +1,3 @@
-### Hi there 👋
-<a href="https://app.daily.dev/aldorithms">
-  <img src="https://github.com/aldorithms/aldorithms/blob/main/devcard.svg" width="400" alt="Aldo's Dev Card"/>
-</a>
 <h1 align="center">Hi 👋, I'm Aldo</h1>
 <h3 align="center">A dedicated Game Developer as well as a Privacy & Security enthusiast</h3>
 
@@ -26,3 +22,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aldorithms&show_icons=true&locale=en" alt="aldorithms" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aldorithms&" alt="aldorithms" /></p>
+<a href="https://app.daily.dev/aldorithms">
+  <img src="https://github.com/aldorithms/aldorithms/blob/main/devcard.svg" width="400" alt="Aldo's Dev Card"/>
+</a>
