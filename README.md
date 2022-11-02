@@ -5,13 +5,24 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aldorithms" alt="aldorithms" /></a> </p>
 
+- 🌱 I’m currently learning **the MERN stack**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/aldorithms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aldorithms" height="30" width="40" /></a>
 <a href="https://dev.to/aldorithms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aldorithms" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aldorithms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aldorithms" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/aldorithms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="aldorithms" height="30" width="40" /></a>
+<a href="https://codesandbox.com/aldorithms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="aldorithms" height="30" width="40" /></a>
+<a href="https://kaggle.com/aldorithms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aldorithms" height="30" width="40" /></a>
+<a href="https://dribbble.com/aldorithms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="aldorithms" height="30" width="40" /></a>
 <a href="https://hashnode.com/@aldorithms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@aldorithms" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/aldorithms" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aldorithms" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/aldorithms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aldorithms" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aldorithms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aldorithms" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@aldorithms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@aldorithms" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/<aldorithms>/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<aldorithms>/profile" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/aldorithms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="aldorithms" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,6 +31,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aldorithms&show_icons=true&locale=en&layout=compact" alt="aldorithms" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aldorithms&show_icons=true&locale=en" alt="aldorithms" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aldorithms&" alt="aldorithms" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aldorithms&" alt="aldorithms" /></p>
 <a href="https://app.daily.dev/aldorithms">
