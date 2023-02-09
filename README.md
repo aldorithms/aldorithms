@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aldo</h1>
-<h3 align="center">A dedicated Game Developer as well as a Privacy & Security enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Aldo Avalos</h1>
+<h3 align="center">A dedicated Game Developer as well as a Systems Programmer</h3>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=aldorithms&label=Profile%20views&color=0e75b6&style=flat" alt="aldorithms" />
