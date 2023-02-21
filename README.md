@@ -147,3 +147,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldorithms&" alt="aldorithms"/>
     <img src="https://github-readme-stats.vercel.app/api?username=aldorithms&show_icons=true&locale=en" alt="aldorithms"/>
 </div>
+
+---
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aldorithms)](https://git.io/streak-stats)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aldorithms&mode=weekly)](https://git.io/streak-stats)
