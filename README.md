@@ -3,7 +3,7 @@
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=aldorithms&label=Profile%20views&color=0e75b6&style=flat" alt="aldorithms" />
-    [![Github](https://img.shields.io/github/followers/aldorithms?label=Follow&style=social)](https://github.com/aldorithms)
+    <img src="https://img.shields.io/github/followers/aldorithms?label=Follow&style=social" />
 
 </p>
 
