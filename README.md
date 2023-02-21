@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Aldo Avalos</h1>
-<h3 align="center">A dedicated Game Developer as well as a Systems Programmer</h3>
-
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=aldorithms&label=Profile%20views&color=0e75b6&style=flat" alt="aldorithms" />
     <img src="https://img.shields.io/github/followers/aldorithms?label=Follow&style=social" />
 </p>
+
+<h1 align="center">Hi 👋, I'm Aldo Avalos</h1>
+<h3 align="center">A dedicated Game Developer as well as a Systems Programmer</h3>
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
