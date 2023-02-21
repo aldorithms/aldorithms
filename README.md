@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/github/followers/aldorithms?label=Follow&style=social" />
 </p>
 
-<p align="left">
+<p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=aldorithms" alt="aldorithms" />
     </a>
