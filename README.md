@@ -6,11 +6,7 @@
 <h1 align="center">Hi 👋, I'm Aldo Avalos</h1>
 <h3 align="center">A dedicated Game Developer as well as a Systems Programmer</h3>
 
-<p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=aldorithms" alt="aldorithms" />
-    </a>
-</p>
+---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aldorithms)](https://github.com/ryo-ma/github-profile-trophy)
 
