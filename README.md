@@ -129,19 +129,19 @@
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
     </a>
 </p>
+<div align="right">
+    <p>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aldorithms&show_icons=true&locale=en&layout=compact" alt="aldorithms" />
+    </p>
 
-<p>
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aldorithms&show_icons=true&locale=en&layout=compact" alt="aldorithms" />
-</p>
+    <p>&nbsp;
+        <img src="https://github-readme-stats.vercel.app/api?username=aldorithms&show_icons=true&locale=en" alt="aldorithms" />
+    </p>
 
-<p>&nbsp;
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=aldorithms&show_icons=true&locale=en" alt="aldorithms" />
-</p>
-
-<p>
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aldorithms&" alt="aldorithms" />
-</p>
-
+    <p>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldorithms&" alt="aldorithms" />
+    </p>
+</div>
 <a href="https://app.daily.dev/aldorithms">
-  <img align="right" src="https://github.com/aldorithms/aldorithms/blob/main/devcard.svg" width="400" alt="Aldo's Dev Card"/>
+  <img align="left" src="https://github.com/aldorithms/aldorithms/blob/main/devcard.svg" width="400" alt="Aldo's Dev Card"/>
 </a>
