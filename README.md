@@ -134,7 +134,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aldorithms&show_icons=true&locale=en&layout=compact" alt="aldorithms" />
     </p>
 
-    <p>&nbsp;
+    <p>;
         <img src="https://github-readme-stats.vercel.app/api?username=aldorithms&show_icons=true&locale=en" alt="aldorithms" />
     </p>
 
