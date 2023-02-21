@@ -148,6 +148,7 @@
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
     </a>
 </p>
+---
 <a href="https://app.daily.dev/aldorithms">
   <img align="left" src="https://github.com/aldorithms/aldorithms/blob/main/devcard.svg" width="400" alt="Aldo's Dev Card"/>
 </a>
