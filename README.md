@@ -5,6 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Aldo Avalos</h1>
 <h3 align="center">A dedicated Game Developer as well as a Systems Programmer</h3>
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ---
