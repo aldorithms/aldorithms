@@ -149,5 +149,3 @@
 </div>
 
 ---
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aldorithms)](https://git.io/streak-stats)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aldorithms&mode=weekly)](https://git.io/streak-stats)
