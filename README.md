@@ -132,7 +132,6 @@
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aldorithms&show_icons=true&locale=en&layout=compact" alt="aldorithms" align="right" />
-    
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldorithms&" alt="aldorithms" align="right"/>
     <img src="https://github-readme-stats.vercel.app/api?username=aldorithms&show_icons=true&locale=en" alt="aldorithms" align="right" />
 </p>
