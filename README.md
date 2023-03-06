@@ -1,3 +1,5 @@
+<img src="https://komarev.com/ghpvc/?username=aldorithms&label=Profile%20views&color=0e75b6&style=flat" alt="aldorithms" />
+<img src="https://img.shields.io/github/followers/aldorithms?label=Follow&style=social" />
 <h1 align="center">Hi 👋, I'm Aldo Avalos</h1>
 <h3 align="center">A dedicated Game Developer as well as a Systems Programmer</h3>
 
@@ -135,12 +137,7 @@
 </p>
 
 ---
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=aldorithms&label=Profile%20views&color=0e75b6&style=flat" alt="aldorithms" />
-    <img src="https://img.shields.io/github/followers/aldorithms?label=Follow&style=social" />
-</p>
-
-<div align="right">
+<div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aldorithms&show_icons=true&locale=en&layout=compact" alt="aldorithms"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldorithms&" alt="aldorithms"/>
     <img src="https://github-readme-stats.vercel.app/api?username=aldorithms&show_icons=true&locale=en" alt="aldorithms"/>
