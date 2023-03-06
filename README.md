@@ -1,8 +1,3 @@
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=aldorithms&label=Profile%20views&color=0e75b6&style=flat" alt="aldorithms" />
-    <img src="https://img.shields.io/github/followers/aldorithms?label=Follow&style=social" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Aldo Avalos</h1>
 <h3 align="center">A dedicated Game Developer as well as a Systems Programmer</h3>
 
@@ -140,12 +135,10 @@
 </p>
 
 ---
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=aldorithms&label=Profile%20views&color=0e75b6&style=flat" alt="aldorithms" />
+    <img src="https://img.shields.io/github/followers/aldorithms?label=Follow&style=social" />
+</p>
 <a href="https://app.daily.dev/aldorithms">
     <img align="left" src="https://github.com/aldorithms/aldorithms/blob/main/devcard.svg" width="400" alt="Aldo's Dev Card"/>
 </a>
@@ -154,5 +147,15 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldorithms&" alt="aldorithms"/>
     <img src="https://github-readme-stats.vercel.app/api?username=aldorithms&show_icons=true&locale=en" alt="aldorithms"/>
 </div>
+---
+
+---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+
 
 ---
