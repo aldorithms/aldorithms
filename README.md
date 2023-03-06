@@ -142,7 +142,9 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldorithms&" alt="aldorithms"/>
     <img src="https://github-readme-stats.vercel.app/api?username=aldorithms&show_icons=true&locale=en" alt="aldorithms"/>
 </div>
+
 ---
+
 <a href="https://app.daily.dev/aldorithms">
     <img align="left" src="https://github.com/aldorithms/aldorithms/blob/main/devcard.svg" width="400" alt="Aldo's Dev Card"/>
 </a>
